@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pc1_ProgramacionMovil</string>
+    <string name="btn_saludar">Saludar</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Username">Email o nombre de usuario</string>
+    <string name="Contrasenia">Contrasenia</string>
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+    <string name="convertidor">Convertidor</string>
+    <string name="resultado">Resultado</string>
+    <string name="kilometros_a_metros">Kilometros a metros</string>
+    <string name="metros_a_kilometros">Metros a Kilometros</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
